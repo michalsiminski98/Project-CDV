@@ -998,7 +998,7 @@ input[type="search"]:focus,
 input[type="url"]:focus,
 select:focus,
 textarea:focus {
-  border-color: #9ac8e9;
+  border-color: #e99a9a;
 }
 
 input[type="text"],
