@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
-@import url("https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
 @import url("fontawesome-all.min.css");
 
 /*
@@ -784,7 +784,7 @@ button {
   background-color: #ff0000;
   border: 0;
   border-radius: 3.5em;
-  font-family: "Mountains of Christmas", cursive;
+  font-family: "Amatic SC", cursive;
   font-size: 1.1em;
   font-weight: bold;
   letter-spacing: 2px;
@@ -2070,7 +2070,7 @@ body {
 .main.style1 h2 {
   font-size: 4.25em;
   line-height: 1em;
-  font-family: "Mountains of Christmas", cursive;
+  font-family: "Amatic SC", cursive;
   letter-spacing: 2px;
 }
 .main.style1 p {
@@ -2163,7 +2163,7 @@ body {
 .main.style3 h2 {
   font-size: 2.4em;
   line-height: 1em;
-  font-family: "Mountains of Christmas", cursive;
+  font-family: "Amatic SC", cursive;
   letter-spacing: 2px;
 }
 .main.style3 span {
@@ -2178,7 +2178,7 @@ body {
 }
 
 #contact header h2 {
-  font-family: "Mountains of Christmas", cursive;
+  font-family: "Amatic SC", cursive;
   font-size: 2.4em;
   color: rgb(0, 0, 0);
   text-shadow: 2px 2px red;
@@ -2406,7 +2406,7 @@ body.is-touch .main {
   background: url("images/overlay.png"), url("../../images/one.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
-  background-position: top left, center center;
+  background-position: 0 35%;
 }
 
 /* Two */
@@ -2414,6 +2414,7 @@ body.is-touch .main {
 #two {
   background: url("images/overlay.png"), url("../../images/two.jpg");
   background-size: cover;
+  background-position: 0 25%;
   background-attachment: fixed;
 }
 
